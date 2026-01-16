@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of KidSchedule AI - 智能儿童课表生成器",
+  "description": "专为7-12岁孩子设计的电子课表生成助手。通过Gemini AI技术，根据不同年级阶段和风格偏好，一键生成精美、实用的课程表及对应的提示词（Prompt），支持复制到豆包、Canva等工具直接使用。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
